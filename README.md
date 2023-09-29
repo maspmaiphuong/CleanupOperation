@@ -1,5 +1,5 @@
 # CleanupOperation
-A minigame about washing dishes. 
+A minigame about washing dishes, code for a custom project for an university course.
 
 ### Description
 Cleanup Operation is a short minigame about washing dishes.
