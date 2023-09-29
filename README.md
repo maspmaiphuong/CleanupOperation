@@ -1,5 +1,6 @@
 # CleanupOperation
-A minigame about washing dishes, code for a custom project for an university course.
+A minigame about washing dishes, coded for a custom project for a university course.
+Developed on April 2022, and uploaded on September 2023.
 
 ### Description
 Cleanup Operation is a short minigame about washing dishes.
