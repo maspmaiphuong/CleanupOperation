@@ -9,5 +9,8 @@ The player will move a soap around to clean up the sink, however, be sure to not
 ### Get started
 If you have Ruby already installed on your computer, simply click on "cleaning.rb" to start the game.
 
+### References
+Graphics are designed via Canva.
+
 ### Notes
 As there is no .exe file for the game yet, this game can only be started if Ruby is installed.
